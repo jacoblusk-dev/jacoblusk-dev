@@ -16,6 +16,7 @@ For the sake of my tech lead I love unit tests!
 Galactic Heroes
 
 An interactive Angular frontend for Legend of the Galactic Heroes. The factions can also easily be swapped to fit Star Wars, Dune, or any other science fiction series.
+
 🚀 Galactic Heroes UI
 - Built with Angular, TypeScript, HTML5, and SCSS for a modern web experience.
 - Implements responsive layouts, reusable components, and modular architecture.
