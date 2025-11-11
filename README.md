@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jacob 👋
 
-<!--
-**jacoblusk-dev/jacoblusk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer working **professionally on full-stack systems.** 
+For the sake of my tech lead I love unit tests!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Frontend:** Angular, HTML5, CSS3, SCSS, JavaScript, TypeScript, Responsive Design, Cross-browser, basic React 
+- **Backend:** .NET Core, C#, SQL, RESTful APIs, Swagger, Entity Framework, Node.js (familiar)
+- **Databases:** MS SQL Server, basic MongoDB
+- **APIs:** REST, Swagger/OpenAPI, learning GraphQL
+- **Testing:** Unit Testing (xUnit, Jasmine), End-to-End
+  
+## 💼 Portfolio
+Galactic Heroes
+
+An interactive Angular frontend for Legend of the Galactic Heroes. The factions can also easily be swapped to fit Star Wars, Dune, or any other science fiction series.
+🚀 Galactic Heroes UI
+- Built with Angular, TypeScript, HTML5, and SCSS for a modern web experience.
+- Implements responsive layouts, reusable components, and modular architecture.
+- Integrates with a custom .NET RESTful API backend for seamless data management.
+- Designed for maintainability, scalability, and accessibility.
+- Includes thorough unit and E2E tests for reliability.
+  
+- 🌐 Galactic Heroes REST API (C#/.NET)
+- A robust and secure RESTful API supporting the Galactic Heroes application.
+- Developed with .NET Core and C# following REST best practices.
+- Handles authentication, business logic, and data persistence via Entity Framework.
+- Features comprehensive error handling, input validation, and OpenAPI/Swagger documentation.
+---
