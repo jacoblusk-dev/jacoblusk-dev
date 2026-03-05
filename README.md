@@ -25,8 +25,12 @@ An interactive Angular frontend for Legend of the Galactic Heroes. The factions 
 - Includes thorough unit and E2E tests for reliability.
 
 🌐 Galactic Heroes REST API (C#/.NET)
-- A robust and secure RESTful API supporting the Galactic Heroes application.
-- Developed with .NET Core and C# following REST best practices.
-- Handles authentication, business logic, and data persistence via Entity Framework.
-- Features comprehensive error handling, input validation, and OpenAPI/Swagger documentation.
+- Clean architecture, OAuth-secured RESTful API for the Galactic Heroes application. (Local Accounts)
+- Developed with .NET Core and C#, following REST best practices.
+- Handles authentication, business logic, and (data persistence via Entity Framework). 
+- Features error handling, input validation, and OpenAPI/Swagger documentation.
+  () In development
+  
+🌐 Galactic Heroes Chat API (C#/.NET)
+- In development, built with SignalR.
 ---
